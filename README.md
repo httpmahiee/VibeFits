@@ -1,6 +1,5 @@
 # VibeFit Colors
 VibeFit Colors is a frontend fashion recommendation website.
-It helps users choose perfect clothing color combinations.
 The project is built using HTML and CSS only.
 CSS Flexbox and Grid are used for layout design.
 A login page is included for user interface flow.
